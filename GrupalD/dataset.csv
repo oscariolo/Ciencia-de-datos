@@ -1,0 +1,21 @@
+ID Estudiante,Grupo (X),Perfil SRL,Calificación Final (Y)
+1,Experimental (FC),Alto,9.2
+2,Experimental (FC),Medio,8.5
+3,Experimental (FC),Alto,9.5
+4,Experimental (FC),Bajo,7.8
+5,Experimental (FC),Alto,8.8
+6,Experimental (FC),Medio,8.2
+7,Experimental (FC),Alto,9.0
+8,Experimental (FC),Medio,8.4
+9,Experimental (FC),Bajo,7.5
+10,Experimental (FC),Alto,9.1
+11,Control (Tradicional),Alto,8.1
+12,Control (Tradicional),Medio,7.5
+13,Control (Tradicional),Bajo,6.8
+14,Control (Tradicional),Alto,8.0
+15,Control (Tradicional),Medio,7.2
+16,Control (Tradicional),Bajo,6.5
+17,Control (Tradicional),Alto,7.9
+18,Control (Tradicional),Medio,7.4
+19,Control (Tradicional),Bajo,6.2
+20,Control (Tradicional),Medio,7.0
